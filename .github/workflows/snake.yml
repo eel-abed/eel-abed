@@ -6,13 +6,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: eel-abed
-          svg_out_path: output/snake.svg
+          outputs: |
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
+            output/snake.svg
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

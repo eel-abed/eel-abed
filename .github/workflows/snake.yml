@@ -8,24 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      # Generate light mode snake
       - uses: Platane/snk@master
-        id: snake-light
         with:
           github_user_name: eel-abed
-          svg_out_path: output/github-snake.svg
-      # Generate dark mode snake
-      - uses: Platane/snk@master
-        id: snake-dark
-        with:
-          github_user_name: eel-abed
-          svg_out_path: output/github-snake-dark.svg
-          palette: "github-dark"
-          colors: "#CFA8FF,#A98BFF" # Dark pastel colors (lavender and soft blue)
-      # Deploy both files to the output branch
+          svg_out_path: output/snake.svg
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_PATH }}

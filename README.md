@@ -30,7 +30,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eel-abed/eel-abed/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eel-abed/eel-abed/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eel-abed/eel-abed/output/github-snake.svg" width="100%">
+    <img src="https://github.com/eel-abed/eel-abed/blob/output/snake.svg?raw=true" alt="Contribution Snake" />
   </picture>
 </div>
 <!-- Footer GIF -->

@@ -27,11 +27,7 @@
 </div>
 <!-- Contribution Snake -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eel-abed/eel-abed/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eel-abed/eel-abed/output/github-snake.svg">
-    <img src="https://github.com/eel-abed/eel-abed/blob/output/snake.svg?raw=true" alt="Contribution Snake" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/eel-abed/eel-abed/output/snake.svg" alt="Contribution Snake" width="100%" />
 </div>
 <!-- Footer GIF -->
 <div align="center">

@@ -1,4 +1,3 @@
-that's my file : 
 name: Generate Snake
 on:
   schedule:

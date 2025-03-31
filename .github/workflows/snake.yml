@@ -58,7 +58,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ github.eel-abed }}
+          github_user_name: ${{ github.repository_owner }}
 
 
 
@@ -95,4 +95,3 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
-

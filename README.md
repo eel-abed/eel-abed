@@ -27,7 +27,7 @@
 </div>
 <!-- Contribution Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eel-abed/eel-abed/output/github-snake.svg" alt="Contribution Snake" width="600" />
+  <img src="https://raw.githubusercontent.com/eel-abed/eel-abed/output/github-snake.svg" alt="Contribution Snake" width="1000" />
 </div>
 <!-- Footer GIF -->
 <div align="center">

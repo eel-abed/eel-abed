@@ -11,7 +11,7 @@
 <!-- About Me Section -->
 <div align="center">
   <p>
-    <em>Blending code with muted hues | Dark pastel enthusiast | Crafting vibes in the void</em>
+    <em>Building things with code.</em>
   </p>
 </div>
 <!-- Badges for Flair -->

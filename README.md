@@ -5,7 +5,7 @@
 <!-- Typing Animation for Intro -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&duration=4000&color=CFA8FF¢er=true&vCenter=true&width=600&lines=Hey,+I'm+Elias;Lost+in+Pastel+Shadows;Code+Meets+Dreams" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&duration=4000&color=CFA8FF¢er=true&vCenter=true&width=600&lines=Hey,+I'm+Elias;Lost+in+The+Profits;Code+Meets+Dreams" alt="Typing SVG" />
   </h1>
 </div>
 <!-- About Me Section -->
